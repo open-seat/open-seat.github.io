@@ -1018,6 +1018,69 @@
       "name": "Baublebar",
       "via": "discover",
       "found": "2026-11-19"
+    },
+    {
+      "ats": "ashby",
+      "slug": "clickhouse",
+      "name": "Clickhouse",
+      "via": "discover",
+      "found": "2026-11-24"
+    },
+    {
+      "ats": "ashby",
+      "slug": "hostinger",
+      "name": "Hostinger",
+      "via": "discover",
+      "found": "2026-11-24"
+    },
+    {
+      "ats": "ashby",
+      "slug": "supabase",
+      "name": "Supabase",
+      "via": "discover",
+      "found": "2026-11-24"
+    },
+    {
+      "ats": "workable",
+      "slug": "clients-blackbox-inc",
+      "name": "Clients Blackbox, Inc.",
+      "via": "discover",
+      "found": "2026-11-24"
+    },
+    {
+      "ats": "ashby",
+      "slug": "kraken.com",
+      "name": "Kraken Com",
+      "via": "discover",
+      "found": "2026-11-24"
+    },
+    {
+      "ats": "ashby",
+      "slug": "silver",
+      "name": "Silver",
+      "via": "discover",
+      "found": "2026-11-24"
+    },
+    {
+      "ats": "ashby",
+      "slug": "gismart",
+      "name": "Gismart",
+      "via": "discover",
+      "found": "2026-11-24"
+    },
+    {
+      "ats": "bamboohr",
+      "slug": "aqt",
+      "name": "Aqt",
+      "via": "discover",
+      "found": "2026-11-24"
+    },
+    {
+      "ats": "ashby",
+      "slug": "openart",
+      "name": "Openart",
+      "via": "discover",
+      "found": "2026-11-24"
     }
   ]
 }
