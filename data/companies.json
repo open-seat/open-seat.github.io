@@ -1081,6 +1081,69 @@
       "name": "Openart",
       "via": "discover",
       "found": "2026-11-24"
+    },
+    {
+      "ats": "recruitee",
+      "slug": "tether",
+      "name": "Tether Operations Limited",
+      "via": "discover",
+      "found": "2026-11-25"
+    },
+    {
+      "ats": "workable",
+      "slug": "huzzle",
+      "name": "Huzzle",
+      "via": "discover",
+      "found": "2026-11-25"
+    },
+    {
+      "ats": "workable",
+      "slug": "hack-the-box-ltd",
+      "name": "Hack The Box",
+      "via": "discover",
+      "found": "2026-11-25"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "k2spacecorporation",
+      "name": "K2spacecorporation",
+      "via": "discover",
+      "found": "2026-11-25"
+    },
+    {
+      "ats": "workable",
+      "slug": "gramian",
+      "name": "Gramian Consulting Group",
+      "via": "discover",
+      "found": "2026-11-25"
+    },
+    {
+      "ats": "recruitee",
+      "slug": "transperfect",
+      "name": "TransPerfect",
+      "via": "discover",
+      "found": "2026-11-25"
+    },
+    {
+      "ats": "workable",
+      "slug": "fuku",
+      "name": "Fuku",
+      "via": "discover",
+      "found": "2026-11-25"
+    },
+    {
+      "ats": "workable",
+      "slug": "cuso-international",
+      "name": "Cuso International",
+      "via": "discover",
+      "found": "2026-11-25"
+    },
+    {
+      "ats": "workable",
+      "slug": "digital-368",
+      "name": "Hire Digital",
+      "via": "discover",
+      "found": "2026-11-25"
     }
   ]
 }
