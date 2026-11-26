@@ -1144,6 +1144,55 @@
       "name": "Hire Digital",
       "via": "discover",
       "found": "2026-11-25"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "caylent",
+      "name": "Caylent",
+      "via": "discover",
+      "found": "2026-11-26"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "upgrade",
+      "name": "Upgrade",
+      "via": "discover",
+      "found": "2026-11-26"
+    },
+    {
+      "ats": "personio",
+      "slug": "get-e",
+      "name": "Get E",
+      "via": "discover",
+      "found": "2026-11-26"
+    },
+    {
+      "ats": "workable",
+      "slug": "lago-1",
+      "name": "Lago",
+      "via": "discover",
+      "found": "2026-11-26"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "phdata",
+      "name": "Phdata",
+      "via": "discover",
+      "found": "2026-11-26"
+    },
+    {
+      "ats": "workable",
+      "slug": "jalasoft",
+      "name": "Jalasoft",
+      "via": "discover",
+      "found": "2026-11-26"
+    },
+    {
+      "ats": "workable",
+      "slug": "mlabs",
+      "name": "MLabs",
+      "via": "discover",
+      "found": "2026-11-26"
     }
   ]
 }
