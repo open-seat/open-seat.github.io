@@ -1193,6 +1193,20 @@
       "name": "MLabs",
       "via": "discover",
       "found": "2026-11-26"
+    },
+    {
+      "ats": "personio",
+      "slug": "swan-gmbh",
+      "name": "Firma SWAN GmbH",
+      "via": "discover",
+      "found": "2026-11-27"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "ebanx",
+      "name": "Ebanx",
+      "via": "discover",
+      "found": "2026-11-27"
     }
   ]
 }
